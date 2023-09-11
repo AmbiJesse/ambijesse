@@ -1,4 +1,7 @@
-### Hi there 👋
+## About Me
+- 👋 Hi, I'm Jesse.
+- 🌱 5 yrs in digital marketing pivoting to data science & analytics
+- 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/jesseching/)
 
 <!--
 **AmbiJesse/ambijesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
