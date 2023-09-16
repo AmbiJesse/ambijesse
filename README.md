@@ -1,6 +1,7 @@
 ## About Me
-- 👋 Hi, I'm Jesse.
-- 🌱 5 yrs in digital marketing pivoting to data science & analytics
+- 👋 Hi, I'm Jesse
+- 🌱 5 yrs experience working in digital marketing pivoting to data science & analytics
+- 📜 Graduated B.S. in Business Analytics and prospective M.S. in Computational Analytics
 - 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/jesseching/)
 
 <!--
