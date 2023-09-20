@@ -2,8 +2,9 @@
 - 👋 Hi, I'm Jesse
 - 🌱 5 yrs experience working in digital marketing transitioning to data science & analytics
 - 🎓 B.S. in Business Analytics and prospective M.S. in Computational Analytics
-- ⚡️ I'm currently working with DataCamp courses, personal projects, and experimentation with Python, SQL and Tableau.
-- 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/jesseching/)
+- ⚡️ I'm currently working with DataCamp courses, personal projects, and experimentation with Python, SQL and Tableau
+- 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/jesseching/) or you can learn more about me at [jesseching.com](https://jesseching.com/)
+- 💭 Curious about Web3, Generative AI, and the integration of AI tools in the data role
 
 <!--
 **AmbiJesse/ambijesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
