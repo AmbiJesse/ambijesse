@@ -1,7 +1,8 @@
 ## About Me
 - 👋 Hi, I'm Jesse
-- 🌱 5 yrs experience working in digital marketing pivoting to data science & analytics
-- 📜 Graduated B.S. in Business Analytics and prospective M.S. in Computational Analytics
+- 🌱 5 yrs experience working in digital marketing transitioning to data science & analytics
+- 🎓 B.S. in Business Analytics and prospective M.S. in Computational Analytics
+- ⚡️ I'm currently working with DataCamp courses, personal projects, and experimentation with Python, SQL and Tableau.
 - 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/jesseching/)
 
 <!--
